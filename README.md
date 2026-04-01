@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Anson%20Jolly&fontSize=35&fontAlignY=35&desc=DSE%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55" />
 
 <p align="center">
-<a href="https://linkedin.com/in/ansonjolly33">
+<a href="https://linkedin.com/in/ansonjolly9600">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ansonjolly33@gmail.com">
