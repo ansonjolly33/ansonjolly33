@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Anson%20Jolly&fontSize=35&fontAlignY=35&desc=CSE%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Anson%20Jolly&fontSize=35&fontAlignY=35&desc=DSE%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55" />
 
 <p align="center">
 <a href="https://linkedin.com/in/ansonjolly33">
@@ -9,7 +9,7 @@
 </a>
 </p>
 👩‍💻 About Me<br><br>
-Anson Jolly - I am a Data Science student with a strong interest in Data Analytics and data-driven problem solving. I enjoy working with data to uncover insights, build visualizations, and support decision-making through meaningful analysis.<br><br>With a foundation in Python, SQL, and data visualization tools, I am continuously developing my skills in data cleaning, exploratory data analysis (EDA), and dashboard creation. I am particularly interested in applying analytics to real-world problems and building projects that demonstrate practical impact.<br><br>### 🔍 What I’m currently focused on:<br>- Building data analytics and visualization projects  <br>-  Learning advanced analytics and machine learning fundamentals  <br>-  Open to collaborating on data-driven and beginner-friendly projects  <br>-  Ask me about Python, SQL, EDA, and data visualization  
+Anson Jolly - I am a Data Science Engineering student with a strong interest in Data Analytics and data-driven problem solving. I enjoy working with data to uncover insights, build visualizations, and support decision-making through meaningful analysis.<br><br>With a foundation in Python, SQL, and data visualization tools, I am continuously developing my skills in data cleaning, exploratory data analysis (EDA), and dashboard creation. I am particularly interested in applying analytics to real-world problems and building projects that demonstrate practical impact.<br><br>### 🔍 What I’m currently focused on:<br>- Building data analytics and visualization projects  <br>-  Learning advanced analytics and machine learning fundamentals  <br>-  Open to collaborating on data-driven and beginner-friendly projects  <br>-  Ask me about Python, SQL, EDA, and data visualization  
 
 
 ## 💻 Tech Stack:
